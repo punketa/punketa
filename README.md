@@ -7,4 +7,4 @@ just starting... 🥱
 
 ## SPOTIFY
 
-[![spotify-github-profile](http://127.0.0.1:3000/api/view?uid=5srcmlxd5labc2zqqwocdv54u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/punketa/spotify-github-profile)
+[![spotify-github-profile](http://127.0.0.1:3000/api/view?uid=5srcmlxd5labc2zqqwocdv54u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
