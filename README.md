@@ -7,7 +7,6 @@ just starting... 🥱
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/497044512250789891)](https://discord.com/users/497044512250789891)
 
-##  Spotify 
-<img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f3b6.gif" width="350">
+<b>Spotify </b><img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f3b6.gif" width="35">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=5srcmlxd5labc2zqqwocdv54u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
