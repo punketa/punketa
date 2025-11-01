@@ -6,7 +6,7 @@
     <li>📖 <b>Currently learning</b>: Network and computer systems administration.</li>
   </ul>
 
-<h2><b> 🛠️ Tool I manage :</b></h2>
+<h2><b> 🛠️ Tools I manage :</b></h2>
   <span>
     <b>Databases : </b>
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
