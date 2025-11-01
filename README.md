@@ -2,6 +2,7 @@
 
 <h2><b>About me ! </b></h2>
 just starting... 🥱
+currently studying 📖
 
 <h2><b>Discord ! </b><img src="https://i.pinimg.com/originals/d2/85/ba/d285ba2cc51a540ad5d5e06c489ce121.gif" width="35"></h2>
 
