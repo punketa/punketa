@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , Dylan here ! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## ABOUT ME
+<h2><b>About me ! </b></h2>
 just starting... 🥱
 
 <h2><b>Discord ! </b><img src="https://i.pinimg.com/originals/d2/85/ba/d285ba2cc51a540ad5d5e06c489ce121.gif" width="35"></h2>
