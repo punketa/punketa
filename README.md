@@ -41,6 +41,12 @@
     <img src="https://img.shields.io/badge/English-Advanced-blue?style=for-the-badge">
   </span>
 
+<h2><b> ✏️ Learning :</b></h2>
+  <span>
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
+  </span>
+
 <h2><img src="https://i.pinimg.com/originals/d2/85/ba/d285ba2cc51a540ad5d5e06c489ce121.gif" width="35"> <b>Discord ! </b></h2>
 
   [![Discord Presence](https://lanyard.cnrad.dev/api/497044512250789891)](https://discord.com/users/497044512250789891)
