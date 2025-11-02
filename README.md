@@ -59,4 +59,4 @@
 
 <h2><img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f3b6.gif" width="35"> <b>Spotify ! </b></h2>
 
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=5srcmlxd5labc2zqqwocdv54u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=5srcmlxd5labc2zqqwocdv54u&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
