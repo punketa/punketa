@@ -53,7 +53,7 @@
 
   [![Discord Presence](https://lanyard.cnrad.dev/api/497044512250789891)](https://discord.com/users/497044512250789891)
 
-<h2><img src="https://i.pinimg.com/originals/d2/85/ba/d285ba2cc51a540ad5d5e06c489ce121.gif" width="35"> <b>Steam ! </b></h2>
+<h2><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmx.pinterest.com%2Feduardorivota%2Fvideojuegos-gif%2F&psig=AOvVaw3wiBie8-L6nU6q_jALWngC&ust=1762180815785000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMi5uaHZ05ADFQAAAAAdAAAAABAL" width="35"> <b>Steam ! </b></h2>
 
 <img src="https://raw.githubusercontent.com/punketa/steam-widget/main/steam-widget.svg" alt="Steam Widget" width="500"/>
 
