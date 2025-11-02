@@ -55,7 +55,7 @@
 
 <h2><img src="https://i.pinimg.com/originals/84/90/f0/8490f0cab98f44a6e905a72cb61b72aa.gif" width="35"> <b>Steam ! </b></h2>
 
-<img src="https://raw.githubusercontent.com/punketa/steam-widget/main/steam-widget.svg" alt="Steam Widget" width="500"/>
+![Steam Widget](steam-widget.svg)
 
 <h2><img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f3b6.gif" width="35"> <b>Spotify ! </b></h2>
 
