@@ -54,7 +54,7 @@
   [![Discord Presence](https://lanyard.cnrad.dev/api/497044512250789891)](https://discord.com/users/497044512250789891)
 
 <h2><img src="https://i.pinimg.com/originals/84/90/f0/8490f0cab98f44a6e905a72cb61b72aa.gif" width="35"> <b>Steam ! </b></h2>
-  user: <a href="https://steamcommunity.com/id/punketa/">punketa</a>
+  <p>user: <a href="https://steamcommunity.com/id/punketa/">punketa</a></p> 
   
   ![Steam Widget](https://github.com/punketa/steam-widget/blob/main/steam-widget.svg)
 
