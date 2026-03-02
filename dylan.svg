@@ -1,7 +1,7 @@
 <svg width="600" height="180" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <pattern id="imgpattern" patternUnits="userSpaceOnUse" width="600" height="180">
-      <image href="https://kavan010.github.io/kavan/assets/bg.png"
+      <image href="https://punketa.github.io/punketa/assets/wallpaper.png"
              x="0" y="0" width="600" height="180"/>
     </pattern>
   </defs>
