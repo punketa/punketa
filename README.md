@@ -8,7 +8,7 @@
   <ul>
     <li>🥱 <b>just starting...</b></li>
     <li>📖 <b>Currently learning</b>: Network and computer systems administration.</li>
-    <li>❓ <b>Next step</b>: Cybersecurity</li>
+    <li>❓ <b>Next step</b>: Cybersecurity.</li>
   </ul>
 
 <h2><b> 🛠️ Tools I manage :</b></h2>
