@@ -42,7 +42,11 @@
     <span>
       <li><b>Web & Others : </b></li>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/css-%23E34F26.svg?style=for-the-badge&logo=css&logoColor=white">
+      <img src="https://img.shields.io/badge/javascript-%23E34F26.svg?style=for-the-badge&logo=javascript&logoColor=white">
+      <img src="https://img.shields.io/badge/visualstudiocode-%23117AC9.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white">
       <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
+      <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white">
     </span>
   </ul> 
   
