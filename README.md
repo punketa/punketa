@@ -26,14 +26,17 @@
       <li><b>Networks : </b></li>
       <img src="https://img.shields.io/badge/Packet%20Tracer-1D6A9A?style=for-the-badge&logo=cisco&logoColor=white">
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+      <img src="https://img.shields.io/badge/pfSense-1679A7?style=for-the-badge&logo=pfsense&logoColor=white">
     </span>
     </br>
     <span>
        <li><b>Operating Systems : </b></li>
       <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-      <img src="https://img.shields.io/badge/Windows Server-0078D6?style=for-the-badge&logo=debian&logoColor=white">
+      <img src="https://img.shields.io/badge/Windows Server-0078D6?style=for-the-badge&logo=windows&logoColor=white">
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+      <img src="https://img.shields.io/badge/Ubuntu Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
       <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">
+      <img src="https://img.shields.io/badge/Endeavour-D70A53?style=for-the-badge&logo=archlinux&logoColor=white">
     </span>
     </br>
     <span>
