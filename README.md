@@ -51,7 +51,7 @@
     </span>
   </ul> 
   
-  <h2><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_the_Basque_Country.svg/1200px-Flag_of_the_Basque_Country.svg.png" width="35"> <b>Languages : </b></h2>
+  <h2><img src="https://static.wikia.nocookie.net/vexillology/images/2/2d/Flag_of_the_Basque_Country.svg/revision/latest?cb=20200505195031" width="35"> <b>Languages : </b></h2>
   <span>
     <img src="https://img.shields.io/badge/Spanish-Native-green?style=for-the-badge">
     <img src="https://img.shields.io/badge/Basque-Native-red?style=for-the-badge">
