@@ -7,7 +7,7 @@
 <h2><b>🧛🏻 About me : </b></h2>
   <ul>
     <li>🥱 <b>just starting...</b></li>
-    <li>🥱 <b>Studies: Technical high school degree and Network and computer systems administration.</b></li>
+    <li>🥱 <b>Studies</b>: Technical high school degree and Network and computer systems administration.</li>
     <li>📖 <b>Currently learning</b>: Cybersecurity.</li>
     <li>❓ <b>Next step</b>: IA maybe...</li>
   </ul>
