@@ -9,7 +9,7 @@
     <li>🥱 <b>just starting...</b></li>
     <li>🥱 <b>Studies</b>: Technical high school degree and Network and computer systems administration.</li>
     <li>📖 <b>Currently learning</b>: Cybersecurity.</li>
-    <li>❓ <b>Next step</b>: IA maybe...</li>
+    <li>❓ <b>Next step</b>: AI maybe...</li>
   </ul>
 
 <h2><b> 🛠️ Tools I manage :</b></h2>
