@@ -7,7 +7,7 @@
 <h2><b>🧛🏻 About me : </b></h2>
   <ul>
     <li>🥱 <b>just starting...</b></li>
-    <li>🥱 <b>Studies</b>: Technical high school degree and Network and computer systems administration.</li>
+    <li>🤓 <b>Studies</b>: Technical high school degree and Network and computer systems administration.</li>
     <li>📖 <b>Currently learning</b>: Cybersecurity.</li>
     <li>❓ <b>Next step</b>: AI maybe...</li>
   </ul>
@@ -43,8 +43,9 @@
       <li><b>Web & Others : </b></li>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
       <img src="https://img.shields.io/badge/css-%23E34F26.svg?style=for-the-badge&logo=css&logoColor=white">
-      <img src="https://img.shields.io/badge/javascript-%23E34F26.svg?style=for-the-badge&logo=javascript&logoColor=white">
-      <img src="https://img.shields.io/badge/visualstudiocode-%23117AC9.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+      <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
       <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
       <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white">
     </span>
@@ -59,11 +60,14 @@
 
 <h2><b> ✏️ Learning :</b></h2>
   <span>
+    <img src="https://img.shields.io/badge/python-F7DF1E.svg?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/bash-%234ea94b.svg?style=for-the-badge&logo=gnubash&logoColor=white">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
   </span>
 
-<h2><img src="https://i.pinimg.com/originals/d2/85/ba/d285ba2cc51a540ad5d5e06c489ce121.gif" width="35"> <b>Discord ! </b></h2>
+<h2><img src="https://i.pinimg.com/originals/d2/85/ba/d285ba2cc51a540ad5d5e06c489ce121.gif" width="35"> <b>Social Media ! </b></h2>
+ <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 
   [![Discord Presence](https://lanyard.cnrad.dev/api/497044512250789891)](https://discord.com/users/497044512250789891)
 
